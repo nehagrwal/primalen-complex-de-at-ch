@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/primalen-complex-de-at-ch/sitemap.xml
+Sitemap: https://primalen-complex-de-at-ch.vercel.app/sitemap-vercel.xml
+Sitemap: https://primalen-complex-de-at-ch.pages.dev/sitemap-cloudflare.xml
